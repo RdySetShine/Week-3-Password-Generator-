@@ -10,19 +10,19 @@
   between 8 -128 characters. 
   ```
   ## Mock Up:
- 
+
+ ![Alt text](assets/Images/03-javascript-homework-demo.png)
+
   ## Author:
   ```
   - Bruno Rosarini 
   ```
-  
   ## Top Contributors:
   ```
  - Keegan Omel
  - Austin Grech 
   ```
-  
   ## Live Link:
-  
+  url: https://github.com/RdySetShine/Week-3-Password-Generator-
   
   ## Github Link
