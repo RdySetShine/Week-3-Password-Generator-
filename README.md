@@ -23,6 +23,9 @@
  - Austin Grech 
   ```
   ## Live Link:
-  url: https://github.com/RdySetShine/Week-3-Password-Generator-
+ url: https://rdysetshine.github.io/Week-3-Password-Generator-/
+
+## Github Link
+
+url: https://github.com/RdySetShine/Week-3-Password-Generator-
   
-  ## Github Link
